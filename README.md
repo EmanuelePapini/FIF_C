@@ -22,7 +22,7 @@ plot results with ```python3 ./testfifc.py```  (requires numpy and pylab). You s
 
 
 ### Contacts ###
-The C version of the FIF algorithm has been written by Igor Bertello - INAF (emanuele.papini@inaf.it) and Emanuele Papini - INAF (emanuele.papini@inaf.it).
+The C version of the FIF algorithm has been written by Igor Bertello - INAF (igor.bertello@inaf.it) and Emanuele Papini - INAF (emanuele.papini@inaf.it).
 
 The original code and algorithm conceptualization are authored by Antonio Cicone - University of L'Aquila (antonio.cicone@univaq.it).
 
