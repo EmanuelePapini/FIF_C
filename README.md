@@ -15,7 +15,9 @@ Simply compile by typing ``` make ```
 
 Run by typing ``` ./test ```
 
-plot results with ```python3 ./testfifc.py```  (requires numpy and pylab)
+plot results with ```python3 ./testfifc.py```  (requires numpy and pylab). You should obtain an image like this one
+
+![Screenshot](fifc_test.png)
 
 
 
