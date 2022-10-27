@@ -15,4 +15,4 @@ Simply compile by typing ``` make ```
 
 Run by typing ``` ./test ```
 
-plot results with ```python3 ./testfifc.py```
+plot results with ```python3 ./testfifc.py```  (requires numpy and pylab)
