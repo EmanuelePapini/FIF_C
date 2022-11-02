@@ -28,6 +28,10 @@ The original code and algorithm conceptualization are authored by Antonio Cicone
 
 Please feel free to contact us would you need any help in getting FIF up and running.
 
+### Acknowledgments ###
+We acknowledge financial support from the Italian Space Agency under the contract ASI “LIMADOU Scienza+” n° 2020-31-HH.0
+
+
 ### Links ###
  http://people.disim.univaq.it/~antonio.cicone/Software.html
 
